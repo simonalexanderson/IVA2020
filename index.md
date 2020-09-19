@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/1DusaoDpacE)
+
 You can use the [editor on GitHub](https://github.com/simonalexanderson/IVA2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
