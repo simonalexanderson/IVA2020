@@ -1,5 +1,4 @@
 # Generating coherent spontaneous speech and gesture from text
-### Authors
 Simon Alexanderson, 
 Éva Székely, 
 Gustav Henter, 
