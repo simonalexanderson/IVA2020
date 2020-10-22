@@ -1,40 +1,45 @@
-## Welcome to GitHub Pages
+# Generating coherent spontaneous speech and gesture from text
+### Authors
+Simon Alexanderson
+Éva Székely
+Gustav Henter
+Taras Kucherenko
+Jonas Beskow
 
-
-[CLICK HERE FOR PRESENTATION VIDEO](https://youtu.be/1DusaoDpacE)
-
-You can use the [editor on GitHub](https://github.com/simonalexanderson/IVA2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+All from KTH Royal Institute of Technology
+---
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Abstract
+Embodied human communication encompasses both verbal (speech) and non-verbal information (e.g., gesture and head movements). Recent advances in machine learning have substantially improved the technologies for generating synthetic versions of both of these types of data: On the speech side, text-to-speech systems are now able to generate highly convincing, spontaneous-sounding speech using unscripted speech audio as the source material. On the motion side, probabilistic motion-generation methods can now synthesise vivid and lifelike speech-driven 3D gesticulation. In this paper, we put these two state-of-the-art technologies together in a coherent fashion for the first time. Concretely, we demonstrate a proof-of-concept system trained on a single-speaker audio and motion-capture dataset, that is able to generate both speech and full-body gestures together from text input.
 
-- Bulleted
-- List
+### Video
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Video of the system presenting itself] (https://youtu.be/1DusaoDpacE) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Citing
+@inproceedings{10.1145/3383652.3423874,
+    author = {Alexanderson, Simon and Sz\'{e}kely, \'{E}va and Henter, Gustav Eje and Kucherenko, Taras and Beskow, Jonas},
+    title = {Generating Coherent Spontaneous Speech and Gesture from Text},
+    year = {2020},
+    isbn = {9781450375863},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3383652.3423874},
+    doi = {10.1145/3383652.3423874},
+    booktitle = {Proceedings of the 20th ACM International Conference on Intelligent Virtual Agents},
+    articleno = {1},
+    numpages = {3},
+    location = {Virtual Event, Scotland, UK},
+    series = {IVA '20}
+}
 
-### Jekyll Themes
+  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/simonalexanderson/IVA2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
