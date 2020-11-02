@@ -17,8 +17,8 @@ Video of the system presenting itself:
 The paper is available <a href="https://dl.acm.org/doi/10.1145/3383652.3423874">here</a>
 
 ### Releted Work
-- Demo site for the spontaneous TTS used in the study can be found <a href="http://www.speech.kth.se/tts-demos/">here</a>.
-- Code and data for the gesture system can be found <a href="https://github.com/simonalexanderson/StyleGestures">here</a>
+- <a href="http://www.speech.kth.se/tts-demos/">Demo site for the spontaneous TTS used in the study</a>.
+- <a href="https://github.com/simonalexanderson/StyleGestures">Code and data for gesture synthesis</a>
  
 
 ### Citing
