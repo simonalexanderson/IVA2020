@@ -17,7 +17,7 @@ Video of the system presenting itself:
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=4_Gq9rU_yWg">
-<img width="60%" src="https://img.youtube.com/vi/4_Gq9rU_yWg/0.jpg">
+<img width="100%" src="https://img.youtube.com/vi/4_Gq9rU_yWg/0.jpg">
 </a>
 </p>
 
