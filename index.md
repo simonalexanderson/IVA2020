@@ -13,8 +13,13 @@ All from KTH Royal Institute of Technology
 Embodied human communication encompasses both verbal (speech) and non-verbal information (e.g., gesture and head movements). Recent advances in machine learning have substantially improved the technologies for generating synthetic versions of both of these types of data: On the speech side, text-to-speech systems are now able to generate highly convincing, spontaneous-sounding speech using unscripted speech audio as the source material. On the motion side, probabilistic motion-generation methods can now synthesise vivid and lifelike speech-driven 3D gesticulation. In this paper, we put these two state-of-the-art technologies together in a coherent fashion for the first time. Concretely, we demonstrate a proof-of-concept system trained on a single-speaker audio and motion-capture dataset, that is able to generate both speech and full-body gestures together from text input.
 
 ### Video
+Video of the system presenting itself:
 
-[Video of the system presenting itself] (https://youtu.be/1DusaoDpacE) and ![Image](src)
+<p align="center">
+<a href="https://www.youtube.com/watch?v=4_Gq9rU_yWg">
+<img width="60%" src="https://img.youtube.com/vi/4_Gq9rU_yWg/0.jpg">
+</a>
+</p>
 
 ### Citing
 ```
