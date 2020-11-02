@@ -11,11 +11,7 @@ Embodied human communication encompasses both verbal (speech) and non-verbal inf
 ### Video
 Video of the system presenting itself:
 
-<p align="center">
-<a href="https://www.youtube.com/watch?v=4_Gq9rU_yWg">
-<img width="100%" src="https://img.youtube.com/vi/4_Gq9rU_yWg/0.jpg">
-</a>
-</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v=4_Gq9rU_yWg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Paper
 The paper is available <a href="https://dl.acm.org/doi/10.1145/3383652.3423874">Here</a>
