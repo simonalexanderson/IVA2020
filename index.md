@@ -16,6 +16,11 @@ Video of the system presenting itself:
 ### Paper
 The paper is available <a href="https://dl.acm.org/doi/10.1145/3383652.3423874">Here</a>
 
+### Releted Work
+Demo site for the spontaneous TTS used in the study can be found <a href="http://www.speech.kth.se/tts-demos/">Here</a>.
+Code and data for the gesture system can be found <a href="https://github.com/simonalexanderson/StyleGestures">Here</a>
+ 
+
 ### Citing
 ```
 @inproceedings{alexanderson2020generating,
