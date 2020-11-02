@@ -18,7 +18,7 @@ Video of the system presenting itself:
 </p>
 
 ### Paper
-<a href="https://dl.acm.org/doi/10.1145/3383652.3423874">Paper</a>
+The paper is available <a href="https://dl.acm.org/doi/10.1145/3383652.3423874">Here</a>
 
 ### Citing
 ```
