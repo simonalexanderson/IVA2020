@@ -1,9 +1,5 @@
 # Generating coherent spontaneous speech and gesture from text
-Simon Alexanderson, 
-Éva Székely, 
-Gustav Henter, 
-Taras Kucherenko, 
-Jonas Beskow,
+Simon Alexanderson, Éva Székely, Gustav Henter, Taras Kucherenko and Jonas Beskow
 
 All from KTH Royal Institute of Technology
 
@@ -21,9 +17,12 @@ Video of the system presenting itself:
 </a>
 </p>
 
+### Paper
+<a href="https://dl.acm.org/doi/10.1145/3383652.3423874">Paper</a>
+
 ### Citing
 ```
-@inproceedings{10.1145/3383652.3423874,
+@inproceedings{alexanderson2020generating,
     author = {Alexanderson, Simon and Sz\'{e}kely, \'{E}va and Henter, Gustav Eje and Kucherenko, Taras and Beskow, Jonas},
     title = {Generating Coherent Spontaneous Speech and Gesture from Text},
     year = {2020},
