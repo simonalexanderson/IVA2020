@@ -18,7 +18,7 @@ The paper is available <a href="https://dl.acm.org/doi/10.1145/3383652.3423874">
 
 ### Releted Work
 - <a href="http://www.speech.kth.se/tts-demos/">Demo site for the spontaneous TTS used in the study</a>.
-- <a href="https://github.com/simonalexanderson/StyleGestures">Code and data for gesture synthesis</a>
+- <a href="https://github.com/simonalexanderson/StyleGestures">Repository for the gesture synthesis</a>.
  
 
 ### Citing
