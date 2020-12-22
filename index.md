@@ -14,9 +14,9 @@ Video of the system presenting itself:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4_Gq9rU_yWg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Paper
-The paper is available <a href="https://dl.acm.org/doi/10.1145/3383652.3423874">here</a>
+The paper is available <a href="https://dl.acm.org/doi/10.1145/3383652.3423874">here</a>.
 
-### Releted Work
+### Related Work
 - <a href="http://www.speech.kth.se/tts-demos/">Demo site for the spontaneous TTS used in the study</a>.
 - <a href="https://github.com/simonalexanderson/StyleGestures">Repository for the gesture synthesis</a>.
  
